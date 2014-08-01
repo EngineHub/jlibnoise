@@ -9,9 +9,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<!-- Project information -->
-	<groupId>net.royawesome</groupId>
+	<groupId>com.sk89q.lib</groupId>
 	<artifactId>jlibnoise</artifactId>
-	<version>dev-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>jlibnoise</name>
 	<description>A straight port of libnoise to Java.</description>
 
